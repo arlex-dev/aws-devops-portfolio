@@ -1,7 +1,7 @@
                        # 🚀 AWS DevOps Portfolio — Node.js App on AWS
 
 **Arlex | Cloud & DevOps Engineer**
-[![GitHub](https://img.shields.io/badge/GitHub-KKAR2023-181717?logo=github)](https://github.com/KKAR2023)
+[![GitHub](https://img.shields.io/badge/GitHub-arlex-dev-181717?logo=github)](https://github.com/arlex-dev)
 
 ---
 
@@ -145,7 +145,7 @@ Every push to `main` triggers the GitHub Actions workflow:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/KKAR2023/aws-devops-portfolio.git
+git clone https://github.com/arlex-dev/aws-devops-portfolio.git
 cd aws-devops-portfolio
 
 # 2. Initialize Terraform
@@ -189,4 +189,4 @@ docker run -p 3000:3000 node-app
 
 **Arlex** — Cloud & DevOps Engineer  
 B.S. Information Technology — Northern Kentucky University (Dec 2024)  
-GitHub: [github.com/KKAR2023](https://github.com/KKAR2023)
+GitHub: [github.com/arlex-dev](https://github.com/arlex-dev)
