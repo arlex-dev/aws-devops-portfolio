@@ -1,7 +1,7 @@
                        # 🚀 AWS DevOps Portfolio — Node.js App on AWS
 
 **Arlex | Cloud & DevOps Engineer**
-[![GitHub](https://img.shields.io/badge/GitHub-arlex-dev-181717?logo=github)](https://github.com/arlex-dev)
+
 
 ---
 
